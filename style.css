@@ -1,0 +1,81 @@
+body {
+    background-color: #252B42;
+    Font-family: Montserrat;
+}
+
+h1 {
+    float: left;
+    color: #FFFFFF;
+    list-style-type: none;
+    margin-left: 195px;
+    margin-top: 30px;
+    padding-right: 62px;
+    font-style: Bold;
+    font-size: 58px;
+}
+
+h3 {
+    float: left;
+    color: #FFFFFF;
+    list-style-type: none;
+    margin-left: 195px;
+    margin-top: 30px;
+    padding-right: 62px;
+    font-style: Bold;
+    font-size: 24px;
+}
+
+ul li {
+    display: inline;
+    color: #FFFFFF;
+    float: left;
+}
+
+.menu li {
+    list-style-type: none;
+    margin-left: 21px;
+    margin-top: 33px;
+}
+
+.login li {
+    margin-left: 214px;
+    margin-top: 33px;
+    padding: 24px;
+}
+
+.menu a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.login a {
+    display: block;
+    margin-left: 214px;
+    font-size: 14px;
+    color: #23A6F0;
+}
+
+.btnBecome {
+    background-color: #23A6F0;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 19px;
+    margin-left: 45px;
+    Font-family: Montserrat;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.btnBecome:hover {
+    background-color: rgb(28, 17, 179);
+}
